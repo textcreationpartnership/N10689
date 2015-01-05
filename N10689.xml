@@ -109,15 +109,15 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:013551_0000_0F90F738C6D47578"/>
-            <pb facs="tcp:013551_0001_0F90F739C5AF23A0"/>
+            <pb facs="unknown:013551_0000_0F90F738C6D47578"/>
+            <pb facs="unknown:013551_0001_0F90F739C5AF23A0"/>
             <p>THE POOR MAN's ADVICE TO HIS POOR NEIGHBOURS: A BALLAD, To the Tune of CHEVY-CHACE.</p>
             <p>NEW-YORK: PRINTED IN THE YEAR M.DCC.LXXIV.</p>
          </div>
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:013551_0002_0F90F73A852F3988"/>
+            <pb facs="unknown:013551_0002_0F90F73A852F3988"/>
             <head>THE Poor Man's ADVICE, &amp;c.</head>
             <lg n="1">
                <head>I.</head>
@@ -141,7 +141,7 @@
                <l>Who say, they're desp'rate proud.</l>
             </lg>
             <lg n="4">
-               <pb n="4" facs="tcp:013551_0003_0F90F73B2B4EDA60"/>
+               <pb n="4" facs="unknown:013551_0003_0F90F73B2B4EDA60"/>
                <head>IV.</head>
                <l>But our King George is just and good,</l>
                <l>If one dar'd speak out plain,</l>
@@ -178,7 +178,7 @@
                <l>As our Provincials fight.</l>
             </lg>
             <lg n="9">
-               <pb n="5" facs="tcp:013551_0004_0F90F73C07A9A3B0"/>
+               <pb n="5" facs="unknown:013551_0004_0F90F73C07A9A3B0"/>
                <head>IX.</head>
                <l>As who nor law, nor gospel know,</l>
                <l>Altho' at college bred,</l>
@@ -215,7 +215,7 @@
                <l>As every good King ought.</l>
             </lg>
             <lg n="14">
-               <pb n="6" facs="tcp:013551_0005_0F90F73CB1740CA8"/>
+               <pb n="6" facs="unknown:013551_0005_0F90F73CB1740CA8"/>
                <head>XIV.</head>
                <l>Oh! what sad Kings, we'd formerly</l>
                <l>They took a wicked maggot;</l>
@@ -251,7 +251,7 @@
                <l>Had given back, all we lost.</l>
             </lg>
             <lg n="19">
-               <pb n="7" facs="tcp:013551_0006_0F90F73D76A58850"/>
+               <pb n="7" facs="unknown:013551_0006_0F90F73D76A58850"/>
                <head>XIX.</head>
                <l>I've Papists known, right honest men:</l>
                <l>Alas! what shame and pity?</l>
@@ -287,7 +287,7 @@
                <l>They mind it not a louse.</l>
             </lg>
             <lg n="24">
-               <pb n="8" facs="tcp:013551_0007_0F90F73EEB4C5DA8"/>
+               <pb n="8" facs="unknown:013551_0007_0F90F73EEB4C5DA8"/>
                <head>XXIV.</head>
                <l>Don't you remember, t'other day</l>
                <l>They talk'd of war with Spain;</l>
@@ -323,7 +323,7 @@
                <l>Will they not make us shudder?</l>
             </lg>
             <lg n="29">
-               <pb n="9" facs="tcp:013551_0008_0F90F73FAA6DA9F0"/>
+               <pb n="9" facs="unknown:013551_0008_0F90F73FAA6DA9F0"/>
                <head>XXIX.</head>
                <l>They work, for East and West-Indies,</l>
                <l>For Russia, and for Spain;</l>
@@ -359,7 +359,7 @@
                <l>Shall not know what to do.</l>
             </lg>
             <lg n="34">
-               <pb n="10" facs="tcp:013551_0009_0F90F740B71F2CF0"/>
+               <pb n="10" facs="unknown:013551_0009_0F90F740B71F2CF0"/>
                <head>XXXIV.</head>
                <l>They've all laid in great stock of things,</l>
                <l>To last them many a year,</l>
@@ -395,7 +395,7 @@
                <l>And drove a smoaking trade.</l>
             </lg>
             <lg n="39">
-               <pb n="11" facs="tcp:013551_0010_0F90F74228487830"/>
+               <pb n="11" facs="unknown:013551_0010_0F90F74228487830"/>
                <head>XXXIX.</head>
                <l>I fear this noise about a tax,</l>
                <l>Is all a downright flam,</l>
@@ -431,7 +431,7 @@
                <l>'Twas inadvertantly.</l>
             </lg>
             <lg n="44">
-               <pb n="12" facs="tcp:013551_0011_0F90F742AB0DE578"/>
+               <pb n="12" facs="unknown:013551_0011_0F90F742AB0DE578"/>
                <head>XLIV.</head>
                <l>Ah what a shame, that pious town,</l>
                <l>Should do a thing so odd,</l>
@@ -467,7 +467,7 @@
                <l>And finally o'erthrow.</l>
             </lg>
             <lg n="49">
-               <pb n="13" facs="tcp:013551_0012_0F90F745B5AA72F8"/>
+               <pb n="13" facs="unknown:013551_0012_0F90F745B5AA72F8"/>
                <head>XLIX.</head>
                <l>He'd greve to's heart, if order'd here</l>
                <l>Against his old frends to fight,</l>
@@ -503,7 +503,7 @@
                <l>By his dear sweetheart's side.</l>
             </lg>
             <lg n="54">
-               <pb n="14" facs="tcp:013551_0013_0F90F746D198BAF0"/>
+               <pb n="14" facs="unknown:013551_0013_0F90F746D198BAF0"/>
                <head>LIV.</head>
                <l>Then must we, five whole hours a stretch,</l>
                <l>Hear their grim pastors whine,</l>
@@ -539,7 +539,7 @@
                <l>As once, at fee, fa, fum.</l>
             </lg>
             <lg n="59">
-               <pb n="15" facs="tcp:013551_0014_0F90F7472E05FF68"/>
+               <pb n="15" facs="unknown:013551_0014_0F90F7472E05FF68"/>
                <head>LIX.</head>
                <l>Suppose, all truth, the Congress say,</l>
                <l>No doubt, they make the worst;</l>
@@ -575,7 +575,7 @@
                <l>And turn us, out of door.</l>
             </lg>
             <lg n="64">
-               <pb n="16" facs="tcp:013551_0015_0F90F747F6C24F80"/>
+               <pb n="16" facs="unknown:013551_0015_0F90F747F6C24F80"/>
                <head>LXIV.</head>
                <l>Now should we raise, the price of work,</l>
                <l>Or of our own produce,</l>
@@ -611,7 +611,7 @@
                <l>Pray masters, may we s—e.</l>
             </lg>
             <lg n="69">
-               <pb n="17" facs="tcp:013551_0016_0F90F748CE8DA1B8"/>
+               <pb n="17" facs="unknown:013551_0016_0F90F748CE8DA1B8"/>
                <head>LXIX.</head>
                <l>For this, they post in every city,</l>
                <l>A pack of dreadful spies:</l>
@@ -648,7 +648,7 @@
                <l>Oh! what a perfect hell.</l>
             </lg>
             <lg n="74">
-               <pb n="18" facs="tcp:013551_0017_0F90F74974733730"/>
+               <pb n="18" facs="unknown:013551_0017_0F90F74974733730"/>
                <head>LXXIV.</head>
                <l>I'd rather be a Galley Slave,</l>
                <l>Be chained hand and foot,</l>
@@ -684,7 +684,7 @@
                <l>Tremble at Boston's fate.</l>
             </lg>
             <lg n="79">
-               <pb n="19" facs="tcp:013551_0018_0F90F74A337FCAC8"/>
+               <pb n="19" facs="unknown:013551_0018_0F90F74A337FCAC8"/>
                <head>LXXIX.</head>
                <l>Arise! shake off the Congress yoke;</l>
                <l>Act as Freemen becomes.</l>
